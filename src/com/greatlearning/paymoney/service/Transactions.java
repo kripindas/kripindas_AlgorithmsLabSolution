@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Transactions {
 
-//	static Scanner scanner = new Scanner(System.in);
 	static LinkedList<Integer> transactionArray = new LinkedList<>();
 	static int noOfTargets;
 
